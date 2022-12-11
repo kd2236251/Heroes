@@ -1,0 +1,70 @@
+* {margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+body {background-color:#F3F3F3}
+
+nav {width:100%;
+	height:75px;
+	line-height:75px;
+	padding:0px 100px;
+	position:fixed;
+	background-color:#232121;
+}
+
+nav .logo p{
+	font-size:30px;
+	font-weight: bold;
+	float:left;
+	color:white;
+	text-transform:uppercase;
+	letter-spacing:1.5px;
+}
+
+nav ul {float: right;
+}
+nav li {display: inline-block;
+	list-style: none;
+}
+nav li a{font-size:18px;
+	text-transform:uppercase;
+	padding:0px 30px;
+	color:white;
+	text-decoration:none;
+}
+
+
+#P {position:absolute;
+	top:100px;
+left:100px;}
+#Z {position:absolute;
+	top:500px;
+left:100px;}
+
+h1 {position:absolute;
+	top:100px;
+	left:450px;
+	color:white;
+	font-size:50px
+}
+#d {position:absolute;
+	top:170px;
+left:450px;
+color:white;
+font-size:20px;
+}
+#KD {position:fixed;
+	bottom:10px;
+	right:10px;
+	color:white;
+	
+}
+#zimbardo {position:absolute;
+top:400px;
+color:white;
+left:100px}
+#zeno {position:absolute;
+top:800px;
+color:white;
+left:100px}
